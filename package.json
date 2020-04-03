@@ -1,0 +1,25 @@
+{
+  "name": "atvb1_gaburieru-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaburieru-dev/atvb1_gaburieru-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaburieru-dev/atvb1_gaburieru-dev/issues"
+  },
+  "homepage": "https://github.com/gaburieru-dev/atvb1_gaburieru-dev#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
